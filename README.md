@@ -21,7 +21,7 @@ The result: organisations collaborate on shared processes while each retains sov
 | Repository | Description |
 |---|---|
 | [**Sorcha**](https://github.com/Sorcha-Platform/Sorcha) | The core platform — Blueprint engine, Wallet service, Register ledger, Tenant identity, Peer network, and API Gateway. Built on .NET 10 with Aspire orchestration. |
-| [**GovModel**](https://github.com/Sorcha-Platform/govmodel) | A Model Government reference implementation. Demonstrates how municipal governance — permits, licensing, citizen credentials, enforcement verification — works on Sorcha. Grounded in Scottish public sector processes. |
+| [**GovModel**](https://github.com/Sorcha-Platform/govmodel) | A Model Government reference implementation. Demonstrates how municipal governance — permits, licensing, citizen credentials, enforcement verification — works on Sorcha. Grounded in real public sector processes. |
 
 ### Capabilities
 
